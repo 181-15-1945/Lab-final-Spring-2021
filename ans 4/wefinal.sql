@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `pass`, `phone`) VALUES
-(1, 'tania sultana', 'tania@gmail.com', '1234', '01775444'),
+(1, 'tania sultana', 'taniia@gmail.com', '1234', '01775444'),
 (4, 'akifah', 'akifah@gmail.com', '1234', '01222324324'),
 (5, 'aairah', 'aairahm@gmail.com', '1234', '09995662');
 
